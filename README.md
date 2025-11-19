@@ -220,7 +220,7 @@ install.packages(c("rpart", "rpart.plot", "ggplot2", "reshape2",
 
 ## 👥 Contributors
 
-- **Kenneth Barthelemy** - [LinkedIn](your-linkedin-url)
+- **Kenneth Barthelemy** - [LinkedIn](https://www.linkedin.com/in/kennethbarthelemy/)
 - **Dilo Junior**
 - **Javier Martinez**
 - **Priyanka Tambe**
