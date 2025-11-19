@@ -3,6 +3,7 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-blue)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kennethbarthelemy/)
 
 ## 📋 Project Overview
 
